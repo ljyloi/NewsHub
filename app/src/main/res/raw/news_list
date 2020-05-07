@@ -1,0 +1,99 @@
+[
+    {
+      "title": "首页",
+      "category": "",
+      "channelType": 1,
+      "isFix": 1,
+      "isSubscible": 1,
+      "url": "raw://image_news"
+    },
+    {
+      "title": "推荐",
+      "category": "推荐",
+      "channelType": 1,
+      "isFix": 1,
+      "isSubscible": 1,
+      "url": "raw://image_news"
+    },
+    {
+      "title": "娱乐",
+      "category": "娱乐",
+      "channelType": 1,
+      "isFix": 0,
+      "isSubscible": 1,
+      "url": "raw://image_news"
+    },
+
+    {
+      "title": "军事",
+      "category": "军事",
+      "channelType": 1,
+      "isFix": 0,
+      "isSubscible": 1,
+      "url": "raw://image_news"
+    },
+    {
+      "title": "教育",
+      "category": "教育",
+      "channelType": 1,
+      "isFix": 0,
+      "isSubscible": 1,
+      "url": "raw://image_news"
+    },
+    {
+      "title": "文化",
+      "category": "文化",
+      "channelType": 1,
+      "isFix": 0,
+      "isSubscible": 1,
+      "url": "raw://image_news"
+    },
+    {
+      "title": "健康",
+      "category": "健康",
+      "channelType": 1,
+      "isFix": 0,
+      "isSubscible": 1,
+      "url": "raw://image_news"
+    },
+    {
+      "title": "财经",
+      "category": "财经",
+      "channelType": 1,
+      "isFix": 0,
+      "isSubscible": 1,
+      "url": "raw://image_news"
+    },
+    {
+      "title": "体育",
+      "category": "体育",
+      "channelType": 0,
+      "isFix": 0,
+      "isSubscible": 1,
+      "url": "raw://today_news"
+    },
+    {
+      "title": "汽车",
+      "category": "汽车",
+      "channelType": 1,
+      "isFix": 0,
+      "isSubscible": 1,
+      "url": "raw://image_news"
+    },
+    {
+      "title": "科技",
+      "category": "科技",
+      "channelType": 0,
+      "isFix": 0,
+      "isSubscible": 0,
+      "url": "raw://today_news"
+    },
+    {
+      "title": "社会",
+      "category": "社会",
+      "channelType": 0,
+      "isFix": 0,
+      "isSubscible": 0,
+      "url": "raw://today_news"
+    }
+  ]

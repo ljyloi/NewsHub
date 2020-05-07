@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="720px"
+    android:layout_height="1280px"
+    android:orientation="vertical"
+    android:background="#ffffff">
+
+    <ImageView
+        android:id="@+id/share_image"
+        android:layout_width="720px"
+        android:scaleType="centerCrop"
+        android:layout_height="256px" />
+
+    <TextView
+        android:id = "@+id/share_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20px"
+        android:gravity="center_horizontal"
+        android:textColor="@color/color_content_text"
+        android:textSize="40px" />
+
+    <TextView
+        android:id="@+id/share_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20px"
+        android:layout_marginTop="20px"
+        android:maxLines="10"
+        android:ellipsize="end"
+        android:layout_weight="1"
+        android:textSize="30px"
+        android:textColor="@color/color_content_text"
+        android:lineSpacingMultiplier="1.5"
+        android:gravity="center_horizontal"
+         />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="150px"
+            android:scaleType="centerCrop"
+            android:layout_weight="1"
+            android:src="@drawable/icon_horizontal"
+            android:background="@color/colorPrimary"
+            android:gravity="center"/>
+
+        <ImageView
+            android:id="@+id/qrcode"
+            android:layout_width="150px"
+            android:layout_height="150px"
+            android:scaleType="centerCrop"
+            android:gravity="center" />
+    </LinearLayout>
+</LinearLayout>

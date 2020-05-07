@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">权大磊李嘉尧_news</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+    <string name="title_home">主页</string>
+    <string name="title_entertainment">娱乐</string>
+    <string name="title_military">军事</string>
+    <string name="title_education">教育</string>
+    <string name="title_culture">文化</string>
+    <string name="title_health">健康</string>
+    <string name="title_business">财经</string>
+    <string name="title_sport">体育</string>
+    <string name="title_car">汽车</string>
+    <string name="title_science">科技</string>
+    <string name="title_society">社会</string>
+    <string name="title_search">搜索</string>
+    <string name="updated_just_now">已更新</string>
+
+    <string name="image">图片</string>
+    <string name="image_ic_des">无图片</string>
+</resources>
